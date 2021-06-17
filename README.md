@@ -8,6 +8,16 @@ Sometimes it's _easier/better/quicker_ to _learn/recall_ stuff by just getting h
 
 You can always drown in details when required, but to start you don't have to.
 
+## Tools
+
+Some common tools that makes our life easier
+
+1. [Albumentations - Data Augmentation](https://github.com/albumentations-team/albumentations)
+2. [LabelImg - Data Annotation](https://github.com/tzutalin/labelImg)
+3. [Google images download - Image Scrapper](https://github.com/hardikvasa/google-images-download)
+
+---
+
 ### References and credits
 
 1. [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
