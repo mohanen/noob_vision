@@ -15,6 +15,7 @@ Some common tools that makes our life easier
 1. [Albumentations - Data Augmentation](https://github.com/albumentations-team/albumentations)
 2. [LabelImg - Data Annotation](https://github.com/tzutalin/labelImg)
 3. [Google images download - Image Scrapper](https://github.com/hardikvasa/google-images-download)
+4. [Netron - DNN Architecture Visualization](https://github.com/lutzroeder/Netron)
 
 ---
 
