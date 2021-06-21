@@ -17,6 +17,7 @@ Some common tools that makes our life easier
 3. [Google images download - Image Scrapper](https://github.com/hardikvasa/google-images-download)
 4. [Netron - DNN Architecture Visualization](https://github.com/lutzroeder/Netron)
 5. [Bokeh - Data Visualisation](https://bokeh.org/) - If you hate matplotlib cumbersome api this is for you
+6. [Seaborn - Statistical Data Visualisation](https://seaborn.pydata.org/index.html)
 
 ---
 
